@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.c1{
+    display: flex;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 0px;
+}
+.c1 .cam{
+    margin: 5px 10px 0px 0px ;
+}
+
+.c2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0px;
+}
+.c2 .Head{
+    font-size: 45px;
+    font-family: 'Smooch Sans', sans-serif;;
+    margin: 15px 0px;
+}
+.c2 .midle{
+    padding: 0px 25%;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(134, 133, 131);
+}
+.c2 .buttons{
+    margin: 20px 0px;
+}
+
+.c3{
+    padding: 20px 0px;
+}
+.row .col{
+    margin: 10px;
+}
+.mins{
+    float: right;
+    color: rgb(161, 161, 161);
+    margin: 7px 0px 0px 0px;
+}
+
+.footer{
+    margin: 45px 0px;
+}
+.footer{
+margin-left: auto;
+}
